@@ -132,7 +132,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-Your Name - [AliAl-ojeely](https://github.com/AliAl-ojeely)
+[AliAl-ojeely](https://github.com/AliAl-ojeely)
 
 ## 🙏 Acknowledgments
 
@@ -140,5 +140,6 @@ Your Name - [AliAl-ojeely](https://github.com/AliAl-ojeely)
 - Console-based game development in C++
 
 ---
+
 
 ⭐ If you enjoyed this project, please give it a star on GitHub!
