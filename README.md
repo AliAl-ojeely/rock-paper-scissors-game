@@ -2,11 +2,11 @@
 
 A classic Rock-Paper-Scissors console game written in C++ where you can compete against the computer in multiple rounds!
 
-## 📋 Description
+## Description
 
 This is a console-based implementation of the traditional Rock-Paper-Scissors game. Challenge the computer to a best-of match with up to 10 rounds. The game features colorful console output and detailed statistics tracking to make your gaming experience more engaging.
 
-## ✨ Features
+## Features
 
 - **Multiple Rounds**: Play 1-10 rounds per game
 - **Interactive Gameplay**: Choose your move each round (Stone, Paper, or Scissors)
@@ -19,20 +19,20 @@ This is a console-based implementation of the traditional Rock-Paper-Scissors ga
 - **Play Again Option**: Continue playing without restarting the program
 - **Sound Alert**: Audio notification when computer wins
 
-## 🎯 Game Rules
+## Game Rules
 
 - **Stone** beats **Scissors**
 - **Paper** beats **Stone**
 - **Scissors** beats **Paper**
 - Same choices result in a **Draw**
 
-## 🛠️ Requirements
+## Requirements
 
 - **Compiler**: C++11 or later
 - **IDE**: Visual Studio 2022 (recommended) or any C++ compiler
 - **OS**: Windows (uses `system("color")` and `system("cls")` commands)
 
-## 🚀 How to Build and Run
+## How to Build and Run
 
 ### Using Visual Studio 2022
 
@@ -55,7 +55,7 @@ cl /EHsc rock_paper_scissors.cpp
 RockPaperScissors.exe
 ```
 
-## 🎮 How to Play
+## How to Play
 
 1. Run the program
 2. Enter the number of rounds you want to play (1-10)
@@ -85,7 +85,7 @@ Round Winner    : [Player1]
 __________________________________
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rock-paper-scissors/
@@ -96,7 +96,7 @@ rock-paper-scissors/
 └── *.sln                       # Visual Studio solution file
 ```
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Data Structures
 
@@ -115,7 +115,7 @@ rock-paper-scissors/
 - `WhoWonTheGame()`: Determines overall game winner
 - `SetWinnerScreenColor()`: Changes console color based on results
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here are some ideas for improvements:
 
@@ -126,15 +126,15 @@ Contributions are welcome! Here are some ideas for improvements:
 - Create a GUI version
 - Add multiplayer mode
 
-## 📝 License
+## License
 
 This project is open source and available for educational purposes.
 
-## 👤 Author
+## Author
 
 [AliAl-ojeely](https://github.com/AliAl-ojeely)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Classic game design
 - Console-based game development in C++
@@ -143,3 +143,4 @@ This project is open source and available for educational purposes.
 
 
 ⭐ If you enjoyed this project, please give it a star on GitHub!
+
