@@ -67,7 +67,7 @@ RockPaperScissors.exe
 5. After all rounds, see the final game statistics
 6. Choose whether to play again (Y/N)
 
-## 📊 Sample Gameplay
+## Sample Gameplay
 
 ```
 How Many Rounds 1 To 10 ?
@@ -143,4 +143,5 @@ This project is open source and available for educational purposes.
 
 
 ⭐ If you enjoyed this project, please give it a star on GitHub!
+
 
