@@ -129,7 +129,7 @@ Contributions are welcome! Here are some ideas for improvements:
 ## License
 
 This project is open source and available for educational purposes.
-⭐ If you enjoyed this project, please give it a star on GitHub!
+
 
 
 
