@@ -129,19 +129,7 @@ Contributions are welcome! Here are some ideas for improvements:
 ## License
 
 This project is open source and available for educational purposes.
-
-## Author
-
-[AliAl-ojeely](https://github.com/AliAl-ojeely)
-
-## Acknowledgments
-
-- Classic game design
-- Console-based game development in C++
-
----
-
-
 ⭐ If you enjoyed this project, please give it a star on GitHub!
+
 
 
